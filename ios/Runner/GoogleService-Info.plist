@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>837798456848-1niagh4o46bimnbhllbfhmi3pa2tgaqk.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.837798456848-1niagh4o46bimnbhllbfhmi3pa2tgaqk</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>837798456848-sq3rpauqh4c4jbf3098gka8qmflqt24m.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAxIhJ2uKzAGaRFcHAnqEpOwngfmlRULDs</string>
+	<key>GCM_SENDER_ID</key>
+	<string>837798456848</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.schat</string>
+	<key>PROJECT_ID</key>
+	<string>schat-a5874</string>
+	<key>STORAGE_BUCKET</key>
+	<string>schat-a5874.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:837798456848:ios:cc422506f0fcb30c87e495</string>
+</dict>
+</plist>

@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "837798456848",
+    "project_id": "schat-a5874",
+    "storage_bucket": "schat-a5874.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:837798456848:android:3e34dc7f4a17092087e495",
+        "android_client_info": {
+          "package_name": "com.example.schat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "837798456848-sq3rpauqh4c4jbf3098gka8qmflqt24m.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.schat",
+            "certificate_hash": "92cc44b9834692a69032e348781be68aaede0ead"
+          }
+        },
+        {
+          "client_id": "837798456848-9hbi6ck5sbjd5bcmtv0l5smeebeg0fvc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDaU3fckSo1fyvIURB-kgb38HbdbpqfCf8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "837798456848-9hbi6ck5sbjd5bcmtv0l5smeebeg0fvc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

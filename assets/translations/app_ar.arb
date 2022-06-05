@@ -1,0 +1,9 @@
+{
+    "clickMe":"اضغط هنا",
+    "googleSignIn":"تسجيل الدخول ب جوجل",
+    "facebookSignIn":"تسجيل الدخول ب فيسبوك",
+    "mobileSignIn":"تسجيل الدخول ب الهاتف",
+    "drawerHome": "الرئيسيه",
+    "drawerSettings":"الاعدادات",
+    "drawerSignOut": "خروج"
+}

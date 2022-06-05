@@ -1,0 +1,10 @@
+{
+    "clickMe": "ClickMe",
+    "googleSignIn":"Sign in with Google",
+    "facebookSignIn":"Sign in with Facebook",
+    "mobileSignIn":"Sign in with Phone number",
+    "drawerHome": "Home",
+    "drawerSettings":"Settings",
+    "drawerSignOut": "SignOut"
+
+}

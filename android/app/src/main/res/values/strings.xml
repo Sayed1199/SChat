@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">SChat</string>
+    <string name="facebook_app_id">1253908001805874</string>
+    <string name="fb_login_protocol_scheme">fb1253908001805874</string>
+    <string name="facebook_client_token">2ace848f307e8f05b73c961bb23b8802</string>
+</resources>
