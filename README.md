@@ -1,8 +1,8 @@
 # schat
 
 A Flutter Mobile Chat App using getx state management and supports App Localization for english and arabic ,supports Text in chat, Photos, Videos, Audio Records and Video Calls Using The Agora SDK.                                                        
--suuports firebase authentication using google,facebook and mobile number with otp code.
-                          -uses firestore for saving chatData
+-suuports firebase authentication using google,facebook and mobile number with otp code.                            
+-uses firestore for saving chatData
 
 The App also supports cool reply widgets. 
 
